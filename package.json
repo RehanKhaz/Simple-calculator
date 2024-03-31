@@ -1,0 +1,19 @@
+{
+  "name": "@rehankhan/cmd-calculator",
+  "version": "2.0.1",
+  "description": " CMD Calculator by a simple Program.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
